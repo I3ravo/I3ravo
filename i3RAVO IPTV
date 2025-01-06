@@ -1,0 +1,243 @@
+{
+"name": "  i3RAVO IPTV",
+"author": "i3RAVO",
+"image": "https://drive.google.com/uc?id=13YUjTUB3V6sJ2jynC-tW00pITZ-aGmJC",
+"url": " ",
+"info": " ",
+
+"groups": [
+
+
+     {"name": "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง","image": "https://drive.google.com/uc?id=1Cn99ReIbkyo-w8_JdX_9lIpZuguXMiFK",
+     "url": "https://dl.dropboxusercontent.com/s/oz98sau5gp9ye5z79m4py/IPTV-WePlay-Main.txt?rlkey=lfbpbd2uhr6wsqex0obkj56ec&dl=0"}, 
+
+     { "name": "     ช่องทีวีดิจิตอล", "image": "https://drive.google.com/uc?id=173eKfTttJ0x0nBvweCaph8ekFfTfkC90", 
+     "url": "https://dl.dropboxusercontent.com/s/zcrfpv35n89ibeccbmug5/IPTV-WePlay-DTV.txt?rlkey=9ki6nt5q74vorznayea8p449o&dl=0"},
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1cJdNb6RLZdITVN2XdTvrFsdfkK51GI0D", 
+     "url": "https://dl.dropboxusercontent.com/s/cngw8d55qn8ks2211qy8y/IPTV-WePlay-News-TV.txt?rlkey=civ9qqyak38i9xv8tvzr1m5cv&dl=0"}, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1OgutjW47vWzi0gfb6kCHs2iFXLyBe32a", 
+     "url": "https://dl.dropboxusercontent.com/s/ftsiaucvfkc8n1h0t4646/IPTV-WePlay-Movies.txt?rlkey=q5c3bpp3ac8ofrtkunw62m9ag&dl=0"}, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1_7C9vQhA1rp5laCPOonO9IPZwOkUjSa6", 
+     "url": "https://dl.dropboxusercontent.com/s/yy4ku2nvhu0wv6mueib05/IPTV-WePlay-kids.txt?rlkey=b2fitaxj6qbzdxj1p80fwzjua&dl=0"},         
+
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1-RRk9ZT9HVsxT2iNUGLcVAuX0CJCsgj3",
+     "url": "https://dl.dropboxusercontent.com/s/ek6hrhexmjg8uhh7rxrk6/IPTV-WePlay-Entertainment-TV.txt?rlkey=rqxv9glileb3wllkkkauk0ahx&dl=0"}, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1Nm0s-mfmOJc_oFhmDQKUi7EqhchZEU35",
+     "url": "https://dl.dropboxusercontent.com/s/mt5vx72lccg8tsz03yv2i/IPTV-WePlay-knowleg.txt?rlkey=8nyrwm0ngyz924ld51s9g9e8n&dl=0"}, 
+
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1pRIzN3P-cqlWcuXdDaIzgQlZeW6d9F0Z", 
+     "url": "https://drive.google.com/uc?id=12KCvpGmhAQwJ__N7eqY9z0DSCV_yUxfr"},
+
+     { "name": "      ", "image":"https://drive.google.com/uc?id=16SbifybsHCfLhtqmxcvmkN9voR9GcKHB", 
+     "url":"https://dl.dropboxusercontent.com/s/d5j7e6xdj9uyyrhzil2gj/IPTV-WePlay-DLTV.txt?rlkey=yrkd35d9l89dys6b8dn4p4b19&dl=0"}, 
+     
+     { "name": "       ", "image": "https://drive.google.com/uc?id=1OO3lS7MwUxtdO_BsapXq-ruQNjTlP0ZH",
+     "url": "https://dl.dr
+opboxusercontent.com/s/30ctafh3ex9dl2u1yc3cm/IPTV-WePlay-Radio-Thai.txt?rlkey=63i6hpugpc6q4dqjszm853iue&dl=0"}, 
+    
+     
+
+
+     { "name": " ALL Series ",
+       "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+       "groups": [ 
+                   
+                   {
+                   "name": "Seriesใหม่",
+                   "url": "https://dl.dropboxusercontent.com/scl/fi/4j6hq9so4ynrvikj1089p/serie-day_-2024.w3u?rlkey=pal7p7qzpetsx6zfqpjsl0l37&dl=0",
+                   "image":  "https://dl.dropboxusercontent.com/scl/fi/pkczh2rvvyqkvi6ap0b4u/SERIES-NEW.png?rlkey=piuduczveprzvtr4gb95mj025&dl=0"},
+                   {
+                   "name": "Series",
+                   "url": "https://dl.dropboxusercontent.com/scl/fi/fs6rrh815huwyfelx90x1/SeriesMain.txt?rlkey=lg85av2uucmqkqpvre3gyiiqk&st=a4rv0slb&dl=0",
+                   "image":  "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0"},
+                   {
+                   "name": "ซีรีย์จบแล้ว",
+                   "image":  "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
+                   "url":"https://docs.google.com/uc?export=download&id=1V_sjLsy0vlPgbb-uX4upIX5lY4gIlGXN", "import":"False"},
+                   {
+                   "name": "ซีรีย์ กำลังออกอากาศ",
+                   "image":  "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
+                   "url":"https://docs.google.com/uc?export=download&id=1FDAX12VkswJuzEIIpjNcyshlJT9Z00Q0","import":"False" },
+
+
+                   { "name": "     Series ดูเอง", "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv", 
+                   "url": "https://dl.dropbox.com/scl/fi/mndwmqr957avblarz2qdr/Series.txt?rlkey=mc0a8777c9kejwxd8u6321kpx&dl=0"},
+                   {
+                   "name": "รวมซีรี่ย์เกาหลี",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://drive.google.com/uc?id=1kmEg1FSy4Fr42xYYsh8Xi-gaWpPa_HMY","import": false},
+                   {
+                   "name": "รวมซีรี่ย์ฝรั่ง",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://drive.google.com/uc?id=1XvDETctiBxT2deCTYxaCFtpAHg9GXY5p","import": false},
+                   {
+                   "name": "รวมซีรี่ย์จีน",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://drive.google.com/uc?id=1POcfjjs8PCF5IJF91jpwk_uAsfJIU07H","import": false},
+                   {
+                   "name": "รวมซีรี่ย์ไทย",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://drive.google.com/uc?id=13Wlsyq3sd3Tiv8RMHqjGdrg30CRuPW3k","import": false},
+                   {
+                   "name": "การ์ตูน+อะนิเมะ",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://drive.google.com/uc?id=11OjX8zXTqKn-IA2-N1EKcrLlAZt8J-eX","import": false},
+                   {
+                   "name": "การ์ตูน+อะนิเมะ 2",
+                   "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+                   "url": "https://gitlab.com/nungdd/free/-/raw/main/web/Anime-Indy/anime-indy_anime_","import": false},]},	
+     
+
+     {
+      "name": "       หนังสารคดี", "image": "https://drive.google.com/uc?id=16gzmdHvJ-E4JwH53LkW-iuKnAnpWVdUB", 
+     "url": "https://dl.dropbox.com/scl/fi/3wfg4wxpi6bfdhsz9auzo/IPTV-WePlay-Documentory.txt?rlkey=q5f1wsya1vxkj8pw77foxte11&dl=0"}, 
+
+     {
+      "name": "หนังออนไลน์ ", "image": "https://static.bangkokpost.com/media/content/20211008/4109515.jpg", 
+     "url": "https://dl.dropbox.com/scl/fi/hysw7soglxr5k4uf2ykd1/MOVIES.txt?rlkey=y0kdn36y6nua4kwybsoy0lnrm&dl=0"},
+
+     {
+      "name": "เว็บซีรี่ย์และหนัง","image": "https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-Photos.png","url": "https://drive.google.com/uc?id=10ydF_yyAUaV79XZRCCdy9iK8ayAhkHvT","import": "true"},
+
+     { 
+     "name": "        guflix", "image": "http://guflix.streaming-fast.com/vip_wiseplay/WEB/logo4.png", 
+     "url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"}, 
+             
+     {
+      "name": "   D00KEELA🟢  ", "image": "https://dookeela.live/images/logo-bar.png", "info": "BIGTV", "url": "https://docs.google.com/uc?id=13aIp2X9Wz_rnNXuIyGnUHNu830zADTmc"},
+     {
+      "name": "   Goal-TH🟢GuUP  ", "image": "https://goal-th.com/wp-content/uploads/2023/12/AW_final_Goal-TH_Fill_1040x202-300x58.png", "info": "i3RAVO UP", "url": "https://dl.dropboxusercontent.com/s/ok4ly0s5rj4lkibpw3mjq/DKL-V.2-Gu-UP.txt?rlkey=kzpbkovjxypgtphee130gekq0&st=7qntyzpl&dl=0"},
+     { "name": "🟢livesod365 Gup", "image": "https://livesod365.com/wp-content/uploads/2024/05/logo.png", "url": "https://dl.dropboxusercontent.com/s/fk70plteo9cxnwli01oiq/Server-dooball66.txt?rlkey=uqncr7p5rd38m3bo6xrtf9oeo&dl=0"},
+     {
+      "name": "   3BBGIGATV🟢GuUP  ", "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/logoapp/Logo-3BB-GIGATV.png", "info": "i3RAVO UP", "url": "https://dl.dropboxusercontent.com/s/anto38jb2m0t94i4nomq6/OTTnavigate-Cop.Up.m3u?rlkey=967o8xhqdbeyl9huqsq7eqw4y&st=314ns7xc&dl=0"},
+
+
+
+
+
+
+
+
+
+
+
+     {          
+      "name":  " IPTV แบ่งปัน ",
+      "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0",
+      "groups":
+             [   
+
+{"name": "เว็บซีรี่ย์และหนัง","image": "https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-Photos.png","url": "https://pastebin.com/raw/h6MtXfMf","import": "true"},
+
+{"name": "   DKL🟢GuUP  ", "image": "https://dookeela.live/images/logo-bar.png", "info": "i3RAVO UP", "url": "https://dl.dropboxusercontent.com/s/nht3bbdxoo53k5n1q4cwh/DKL-Gu-UP.txt?rlkey=8kd1fxgdsh7td311sah9p3g83&dl=0"},
+
+{ "name": "🟢PLAYIDTV DADDYHD", "image": "https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0", "url": "https://playidtv24.vercel.app/OTT/daddyhd.m3u", "import": false }, 
+
+   	     { "name": "🟢 IPTV githup", "image": "https://dl.dropbox.com/scl/fi/9ffota6qqtu44c3dwa1dd/listen.png?rlkey=12pvj336nttvuuy2ikjusoc5v&dl=0", "url": "https://raw.githubusercontent.com/BDIXIPTVHUB/BDIXIPTVHUB/refs/heads/main/lifetime.m3u"},
+
+             { "name": "🟢THAI_SPORTS", "image": "https://dl.dropbox.com/scl/fi/6xs5b2mybbumcu4lv40k7/20240328_161925.png?rlkey=udyw7jgujmqllusbmqeaxjsbg&dl=0", "url": "https://dl.dropbox.com/scl/fi/nsvb6dc5lv9u0cjlnltkq/playidtvpl.m3u?rlkey=snv30njtwx66jy5b46b9fmrp5&dl=0"},
+             {"name": "🟢DKL ", "image": "https://dookeela.live/images/logo-bar.png", "info": "PlaID UP", "url": "https://playidtv24.vercel.app/wiesplay/Dookeela.html"},
+             { "name": "🟢TRUEID", "image": "https://dl.dropbox.com/scl/fi/er81p7ixt6o4px1d47cbd/20240328_161339.png?rlkey=mmd37zweiqdgl7u7tsxdv3jvo&dl=0", "url": "https://bit.ly/3rNpmYQ"},
+             { "name": "🟢BALL66", "image": "https://dl.dropbox.com/scl/fi/nwo5cqiai6f586l4yg98g/20240328_161500.png?rlkey=db0omzhgrxua87ba8tpryitnz&dl=0", "url": "https://dl.dropbox.com/scl/fi/mw92jxsnbp6g8drn8jjjx/CHANNE1.w3u?rlkey=e1vwv1qjib57bhs7lh20pb445&dl=0"},
+             { "name": "🟢BALL66 Gup", "image": "https://dl.dropbox.com/scl/fi/nwo5cqiai6f586l4yg98g/20240328_161500.png?rlkey=db0omzhgrxua87ba8tpryitnz&dl=0", "url": "https://dl.dropboxusercontent.com/s/fk70plteo9cxnwli01oiq/Server-dooball66.txt?rlkey=uqncr7p5rd38m3bo6xrtf9oeo&dl=0"},
+             { "name": "🟢PLAYIDTV SPORTS", "image": "https://dl.dropbox.com/scl/fi/6xs5b2mybbumcu4lv40k7/20240328_161925.png?rlkey=udyw7jgujmqllusbmqeaxjsbg&dl=0", "url":  "https://dl.dropboxusercontent.com/s/p1ns71xtt80tzkx/dolivethai.m3u?dl=0"},
+   
+{ "name": "🟢IPTV Soponwit19997", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/07e4cae342112169809988545bec97d52bba1412/Digital_TV.m3u"}, 
+{ "name": "🟢Digital_TV_M3U8", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://dl.dropboxusercontent.com/s/fswl86y5infjms6b9t1c9/Digital_TV_M3U8.m3u?rlkey=v4b754xrftv6qed2tsofzm7u3&dl=0"}, 
+
+
+{"name": "DOOKEELA vs Livescore", "image": "https://livescorethai.net/assets/images/logo-new.png?v=4", "url": "https://pastebin.com/jUH3zKfR", "import": false },
+{ "name": "Live on web", "image": "https://familymedia.tv/wp-content/uploads/2022/08/Live-TV-4.gif", "url": "https://pastebin.com/VGbfHJ0H", "import": false },
+{ "name": "iptv36", "image": "https://m.media-amazon.com/images/I/7158721HNPL.png", "url": "https://iptv36.vercel.app/playlist-v2.m3u", "import": false },
+{ "name": "BK Live TV", "image": "https://th.bing.com/th/id/OIG3.I30OfqUAv2WCmAzUPh9s?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn", "url": "https://cutt.ly/Main_link", "import": false },
+{ "name": "Live Movie", "image": "https://www.doodeebox.com/wp-content/uploads/2019/10/doodeebox-512-1.png", "url": "http://freenote.biz/raw/djig1vbfac", "import": false },
+{ "name": "WISEPLAY TV", "image": "https://styles.redditmedia.com/t5_5md2l2/styles/communityIcon_hdj9nu1a8qu91.png", "url": "http://freenote.biz./raw/ex895gti2k", "import": false },
+{ "name": "รวมมิตร", "image": "https://i.pinimg.com/736x/09/0f/67/090f67dde17f5f4d7b2c141677836379.jpg", "url": "https://freenote.biz/raw/egemkzfr5y", "import": false },
+{"name" : "WIN TV","image" : "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png","url" : "https://pastebin.com/YpDkAZPg","import": "true"},
+{"name": "DOO MOVIE","image": "https://www.pngall.com/wp-content/uploads/13/Movie-Hollywood-PNG-Photos.png","url": "https://pastebin.com/raw/h6MtXfMf","import": "true"},
+{"name": "Movie & Series","image": "https://banner2.cleanpng.com/20180704/vbv/kisspng-art-film-cinema-fx-movie-channel-television-movie-poster-5b3c6f2e4a4653.2243007915306872783042.jpg","url": "https://drive.google.com/uc?id=1deDof6B1UsrPNeRda21magjKQelOzs_Z","import": "true"},
+
+{"name": "GUFLIX","image": "http://guflix.streaming-fast.com/logo/guflix.gif","url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8","import":"false"},
+{"name": "Nung2hdd","image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png","url": "https://drive.google.com/uc?id=18cvX2drh_74oDrBav7MD9JA---idkfqo","import": "true"},
+{ "name": "#INWIPTV#","image": "https://drive.google.com/uc?id=1qUX9Fj5vAHuMR5I6dTip8IvwDMKroOyV","url": "https://drive.google.com/uc?id=12ZNtaY_zUiIEKO3_vhXmilwlFfhSuqQD","import": "true"},
+
+ 
+
+{ "name": "       DOO DEE","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0_wLazst1AKj1hqOxZRw1fzUFD09iTbELA&s", "url": "https://pastebin.com/raw/aa1V1hMp ", "import": "true"},
+
+{"name": "fuckidplus","image": "https://e7.pngegg.com/pngimages/843/991/png-clipart-graphy-computer-icons-button-click-photography-logo.png", "url": "https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u","import": "true"}, 
+
+{ "name": "SamsungTV Plus", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/SamsungTVPlus", "import": false },  
+
+{ "name": "IPTV IndiHome TV", "image": "https://static.wikia.nocookie.net/logopedia/images/c/ca/IndiHomeTV.png/revision/latest?cb=20221214122432", "url": "https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u", "import": false },  
+
+{ "name": "uk_samsung ", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_samsung.m3u", "import": false },
+
+{ "name": "IPTV GM-Vision", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/khoebhoerhan/GMTV/refs/heads/main/GM-Vision.m3u", "import": false },	
+
+{ "name": "Test IPTV tizam", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/gluk03/iptvgluk/refs/heads/main/tizam.m3u", "import": false },
+
+{ "name": "Test IPTV iptvtvmini", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/iptvtvmini/boss/refs/heads/tv/kp76", "import": false },
+	
+{ "name": "Test IPTV HANOI", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u", "import": false },	
+ 			 
+{ "name": "Test IPTV ott", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://dl.dropboxusercontent.com/s/xvomn8z2qizma9yp2qea0/Digital_TV_M3U8.m3u?rlkey=52yb1jeqkeqkwbhpbnumbdrpt&st=fojckd0e&dl=0", "import": false },  
+		     			
+{ "name": "Test IPTV RsLiveTv", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0",  "url": "https://raw.githubusercontent.com/RsLiveTv/RsTv/refs/heads/main/Playlist.m3u", "import": false },
+
+{ "name": "Test IPTV", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/denden79den/TV-PREMIUM/refs/heads/main/channel%20premium", "import": false },     
+  
+{ "name": "Test IPTV DewaNonton", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/DewaNonton", "import": false },			
+
+{ "name": "Test IPTV", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8", "import": false },   
+              
+
+
+   
+
+  
+			{"name": "รายการดูทีวีออนไลน์หนัง", "image": "https://dl.dropbox.com/s/offruwv2k2tor63/20220805_064038.jpg?dl=0", "url": "http://tiny.cc/freetv2238", "import": "true"},
+			{"name":"     =[XTEMUS TV]=","image":"https://tv.xtemus.com/images/x-logo.gif", "url":"https://playlist.xtemus.com/?playlist=t256y454t41554","import": "true"},  
+            	        {"name": "Bow𝒾𝒾 Fairy Playlist","image":"https://c.tenor.com/7F6k3m2xxZAAAAAj/happy-december1st-angel.gif", "url":"http://tiny.cc/v1tsuz","import": "true"},
+			    				{"name": "SUNBUCK COFFEE TV","image": "https://i.gifer.com/QEq.gif", "url": "https://drive.google.com/uc?id=12hfnpNPyPzffFo5sYbMEAHgHk6aY7faD","import": "true"},
+
+{ "name": "Adult_Unrated", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/srpremiumbd/SR_PREMIUM_BD/refs/heads/main/Adult_Unrated.m3u"},
+
+{ "name": "Adult_IPTV 1", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/tumanggertv/tumanggertv/refs/heads/main/XXX-1", "import": false },
+
+{ "name": "Adult_IPTV 2", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://raw.githubusercontent.com/tumanggertv/tumanggertv/refs/heads/main/2024-09-FernandCalista-XXX", "import": false },
+
+                     {"name": "info SEXY AV", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", "url": "https://pastebin.com/raw/ZNrz6E4Y", "import": false },
+
+
+                     { "name": "IPTV TEST XXX", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", 
+             "url": "https://dl.dropboxusercontent.com/s/i3rjhr2wrna4sgnri01xp/m3u-Test.txt?rlkey=ka39bp5hm4a44w3kbr4gbvqxp&dl=1", "import": false },
+
+                    { "name": "Test XXX 1", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", 
+             "url": "https://pastebin.com/raw/M6FnR3MR", "import": false },
+                    { "name": "Test XXX 2", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", 
+             "url": "https://raw.githubusercontent.com/Justryuz/TV/refs/heads/main/xxx", "import": false },
+                    { "name": "Test XXX 3", "image": "https://dl.dropboxusercontent.com/s/vzsoq2a5o9evt5sattxsb/mix-IPTV.png?rlkey=0e0zj6g7obm4io9s7d1kmcyl3&dl=0", 
+             "url": "https://dl.dropboxusercontent.com/s/bxnjpk6ls46grkof5e3f5/m3u.txt?rlkey=2np08ngv8d646pxmu85l213ey&dl=0", "import": false },
+
+{ "name": "♥ 🇹🇭 18+ ™ 🇹🇭♥", "image": "https://www.dropbox.com/scl/fi/vdyhi2uy16q76afocqgw3/18.png?rlkey=8ne5uu6b1o7ib37l9s6vg1kta&dl=1", "url": "https://udzaa2238.github.io/videox24/main.html", "info": "ฟรี!!!", "import": false},
+                    { "name": " IPTV X TV", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW", 
+             "url": "https://dl.dropboxusercontent.com/s/wn6gauaogu6bthx7vtkft/IPTV-X-TV.txt?rlkey=xslzbdq98cj5xrja7n598r278&dl=0", "import": false },
+                    { "name": "XXX", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW", 
+             "url": "https://dl.dropboxusercontent.com/s/jpick0ywpzn1vwa/Homeporn.w3u", "import": false },
+             	    { "name": "", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW", 
+             "url": "https://dl.dropboxusercontent.com/s/932954kgm76hlv6f6gaa7/IPTV-WePlay-Adul-TV.txt?rlkey=4axog1wnqaa46bdkd5ruvv7n7&dl=0", "import": false },
+                    {"name": "   SEXY 18+", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW",
+	         "url": "https://drive.google.com/uc?id=11Bo2hmX0B3sIke2GryZJ96Gglc2qGMnv"},  
+                    {"name": "   SEXY 20+", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW",
+	         "url": "https://drive.google.com/uc?id=1xnXQ-aVLNon_8ljhrzzssYsrpqtjmHPK", "import": false }, 
+             ]},  
+
+]},]},
+
+
+sport main link  ggdrive https://drive.google.com/uc?id=12KCvpGmhAQwJ__N7eqY9z0DSCV_yUxfr
