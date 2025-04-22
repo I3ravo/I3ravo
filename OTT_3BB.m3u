@@ -34,7 +34,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 
 
-#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" group-title="ช่อง3BBTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",TSPORTS 7
+#EXTINF:-1 tvg-chno="7" tvg-id="TSPORT.th" group-title="ช่อง3BBTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",TSPORTS 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,7 +90,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Channel8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="ช่อง3BBTV", CH8 HD
+#EXTINF:-1 tvg-chno="27" tvg-id="CH8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="ช่อง3BBTV", CH8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,12 +98,13 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="ช่อง3BBTV", Mono 29
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="ช่อง3BBTV", Mono 29 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8
+#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-chno="30" tvg-id="MCOTHD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="ช่อง3BBTV", MCOT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
