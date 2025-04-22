@@ -81,8 +81,7 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
-https://moviektu.com/key/live/digital/true4u/k.m3u8
-#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="ช่อง3BBTV", GMM 25 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
