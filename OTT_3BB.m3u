@@ -146,7 +146,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ช่อง3BBTV", PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
