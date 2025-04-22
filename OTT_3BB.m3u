@@ -63,7 +63,7 @@ https://moviektu.com/key/live/digital/Tnn-16/k.m3u8
 #KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 
-#EXTINF:-1 tvg-chno="22" tvg-id="NationTV.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="ช่อง3BBTV", Nation TV FHD
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="ช่อง3BBTV", Nation TV FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,7 +77,7 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-chno="24" tvg-id="True4U.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่อง3BBTV",TRUE4U HD
+#EXTINF:-1 tvg-chno="24" tvg-id="True24.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่อง3BBTV",TRUE4U HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,7 +92,7 @@ https://moviektu.com/key/live/digital/true4u/k.m3u8
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 tvg-chno="27" tvg-id="CH8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="ช่อง3BBTV", CH8 HD
+#EXTINF:-1 tvg-chno="27" tvg-id="Channel8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="ช่อง3BBTV", CH8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
