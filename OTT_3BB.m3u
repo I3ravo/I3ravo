@@ -69,7 +69,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint23.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="ช่อง3BBTV", Workpoint FHD
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="iptv36.workpoint" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="ช่อง3BBTV", Workpoint FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,7 +113,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/pl
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="One31.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="ช่อง3BBTV", ONE31 HD
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="iptv36.one" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="ช่อง3BBTV", ONE31 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,7 +149,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 #https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
-#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ช่อง3BBTV", PPTV HD
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="iptv36.pptv" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ช่อง3BBTV", PPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
