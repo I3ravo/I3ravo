@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/epg/refs/heads/main/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://www.open-epg.com/files/thailand1.xml" refresh="3600" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/epg/refs/heads/main/guide.xml, https://iptv36.vercel.app/epg.xml, https://www.open-epg.com/files/thailand1.xml" refresh="3600" 
 
 
 
